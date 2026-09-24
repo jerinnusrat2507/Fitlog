@@ -10,7 +10,7 @@ GitHub Repository Link: _add your repo URL here_
 
 ## Technologies used
 
-- **Next.js 14 (App Router)** — routing, layouts, and page navigation
+- **Next.js 16 (App Router)** — routing, layouts, and page navigation
 - **React 18** — component state and context for the plan/saved data
 - **Tailwind CSS** — styling, responsive layout, and the dark/acid-green theme
 - **Fontsource (Oswald + Inter)** — self-hosted display and body typefaces
@@ -38,6 +38,8 @@ GitHub Repository Link: _add your repo URL here_
    errors out.
 
 ## Getting started
+
+Requires **Node.js 20.9 or newer** (`node -v` to check).
 
 ```bash
 npm install
