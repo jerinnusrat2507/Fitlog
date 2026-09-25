@@ -29,12 +29,12 @@ export default function Hero() {
 
         <div className="relative aspect-[4/3] w-full overflow-hidden rounded-card border border-border bg-surface lg:aspect-square">
           <Image
-            src="https://img.magnific.com/free-photo/3d-cartoon-fitness-man_23-2151691505.jpg?w=740"
-            alt="Athlete mid-lift, illustrating FitLog's workout library"
+            src="/images/hero-workout.png"
+            alt="Anatomical illustration of a lifter performing a seated row, illustrating FitLog's workout library"
             fill
             priority
             sizes="(min-width: 1024px) 40vw, 90vw"
-            className="object-cover"
+            className="object-contain"
           />
         </div>
       </div>
