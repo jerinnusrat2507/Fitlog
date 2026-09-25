@@ -5,8 +5,8 @@ twelve lifts, drill into a detailed workout page, lock lifts into **Today's
 Plan** (capped at five), save others for later, and track live totals for
 exercises, minutes, and calories — all persisted across reloads.
 
-Live Link: _add your deployed URL here_
-GitHub Repository Link: _add your repo URL here_
+Live Link: https://stellar-melomakarona-eb98c8.netlify.app
+GitHub Repository Link: https://github.com/jerinnusrat2507/Fitlog
 
 ## Technologies used
 
